@@ -9,6 +9,7 @@ package fantasyfootballsetup;
  * @author joao
  */
 public class Forward extends Player {
+   
     int numGoalsScored;
     
     public Forward(int numGoalsScored,String fname, String lnamel, String country, int age, String position) {
